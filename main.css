@@ -149,6 +149,12 @@ background: rgb(255, 255, 255);
       gap: 5px;
       justify-content: space-between;
     }
-
+    .div_footer{
+      display: flex;
+      gap: 274px;
+    }
+.footer{
+  margin-top: 70px;
+}
 
 
